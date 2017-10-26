@@ -276,10 +276,10 @@
   border: 3px solid lightgray;
   border-radius: 0px;
   color: #444444;
+  font-weight: 600;
   background: white;
   text-shadow: none;
   box-shadow: none;
-  text-transform: uppercase;
 }
 
 /* CANCEL BUTTON HOVER */
