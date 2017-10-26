@@ -163,6 +163,14 @@
 /* ------------------------------------------------------------ */
 /*                      QUIZ ANNOTATION                         */
 /* ------------------------------------------------------------ */
+
+/* EXTRA */
+.page-number {
+  font-size: 17px;
+  color: #E6E6E6;
+  text-transform: uppercase;
+}
+
 /* QUIZ BG COLOR AND CURVE */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
   background: rgba(255, 255, 255);
@@ -363,11 +371,4 @@
 
 .popcorn-hotlink.active {
   background-color: rgba(68, 68, 68);
-}
-
-/* EXTRA */
-.page-number {
-  font-size: 17px;
-  color: #E6E6E6;
-  text-transform: uppercase;
 }
