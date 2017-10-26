@@ -282,14 +282,14 @@
   text-shadow: none;
   box-shadow: none;
   text-transform: uppercase;
-  transition: 1s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
-  box-shadow: 5px 5px 5px #444444;
+  box-shadow: 5px 5px 5px #444444 0.2;
   color: #333333;
-  transform: translate(-5px,-5px);
+  transform: translate(-2px,-2px);
 }
 
 /* QUIZ BACK BUTTON */
