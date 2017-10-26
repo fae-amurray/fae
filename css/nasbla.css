@@ -280,11 +280,12 @@
   background: white;
   text-shadow: none;
   box-shadow: none;
+  text-transform: uppercase;
 }
 
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
-  border: #333333;
+  border-color: #333333;
   color: #333333;
 }
 
