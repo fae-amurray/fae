@@ -367,7 +367,7 @@
 
 /* EXTRA */
 .page-number {
-  color: #333333;
   font-size: 17px;
   text-transform: uppercase;
+  background: #333333;
 }
