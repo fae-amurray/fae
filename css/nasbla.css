@@ -273,9 +273,9 @@
 
 /* CANCEL BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
-  border: 3px solid lightgray;
+  border: 3px solid gray;
   border-radius: 0px;
-  color: lightgray;
+  color: gray;
   font-weight: 600;
   background: white;
   text-shadow: none;
