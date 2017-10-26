@@ -283,8 +283,8 @@
 
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
-  border-color: gray;
-  color: gray;
+  border-color: #333333;
+  color: lightgray;
 }
 
 /* QUIZ BACK BUTTON */
