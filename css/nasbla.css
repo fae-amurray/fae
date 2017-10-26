@@ -165,7 +165,8 @@
 /* ------------------------------------------------------------ */
 /* QUIZ BG COLOR AND CURVE */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
-  background: white 0.2;
+  background: white;
+  opacity: 0.8;
   border: 3px solid #1A1A1A;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
