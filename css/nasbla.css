@@ -165,7 +165,7 @@
 /* ------------------------------------------------------------ */
 /* QUIZ BG COLOR AND CURVE */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255);
   border: 3px solid #444444;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -340,15 +340,15 @@
 
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-review-screen .hapyak-quiz-builder.viewer .question-text {
   color: #444444;
-  background: rgba(255, 255, 255, 0);
+  background: rgba(255, 255, 255);
 }
 
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-review-screen .hapyak-quiz-builder.viewer .thank-you {
-  background: rgba(68, 68, 68, 0.7);
+  background: rgba(68, 68, 68);
   color: white;
   width: 100%;
 }
 
 .popcorn-hotlink.active {
-  background-color: rgba(68, 68, 68, 0);
+  background-color: rgba(68, 68, 68);
 }
