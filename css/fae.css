@@ -301,11 +301,15 @@
 
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
-  color: white;
-  background: gray;
-  border: 3px solid gray;
-  box-shadow: none;
+  border: 3px solid #E6E6E6;
+  border-radius: 0px;
+  color: #333333;
+  font-size: 18px;
+  font-weight: 600;
+  background: none;
   text-shadow: none;
+  box-shadow: none;
+  text-transform: uppercase;
 }
 
 /* QUIZ BACK BUTTON HOVER */
