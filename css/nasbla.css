@@ -287,7 +287,7 @@
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
   color: #333333;
-  background-color: #333333 0.2;
+  background: #333333 0.2;
 }
 
 /* QUIZ BACK BUTTON */
