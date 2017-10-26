@@ -364,3 +364,9 @@
 .popcorn-hotlink.active {
   background-color: rgba(68, 68, 68);
 }
+
+/* EXTRA */
+.page-number {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
