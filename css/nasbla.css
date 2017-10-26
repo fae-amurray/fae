@@ -165,7 +165,7 @@
 /* ------------------------------------------------------------ */
 /* QUIZ BG COLOR AND CURVE */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
-  background: white;
+  background: rgba(255, 255, 255);
   border: 3px solid #1A1A1A;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -195,7 +195,7 @@
   margin-top: -10px;
   padding-top: 30px;
   padding-bottom: 10px;
-  background: white;
+  background: rgba(250, 199, 40);
   font-weight: 600;
   color: #1A1A1A;
   text-align: center;
@@ -265,11 +265,6 @@
   text-shadow: none;
   box-shadow: none;
   text-transform: uppercase;
-}
-
-.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers:hover {
-  background: #E6E6E6;
-  color: #333333;
 }
 
 /* DONE BUTTON */
