@@ -273,7 +273,7 @@
 
 /* CANCEL BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
-  border: 3px solid lightgrey;
+  border: 3px solid #E6E6E6;
   border-radius: 0px;
   color: #333333;
   font-size: 17px;
@@ -286,7 +286,7 @@
 
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
-  background: lightgrey;
+  background: #E6E6E6;
 }
 
 /* QUIZ BACK BUTTON */
