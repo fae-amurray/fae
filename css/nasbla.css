@@ -288,7 +288,7 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
   box-shadow: 5px 5px 5px #444444;
   color: #333333;
-  transform: translate(-10px, -10px);
+  transform: translate(-10px,-10px);
 }
 
 /* QUIZ BACK BUTTON */
