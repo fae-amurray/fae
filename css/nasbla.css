@@ -166,7 +166,7 @@
 /* QUIZ BG COLOR AND CURVE */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
   background: rgba(255, 255, 255);
-  border: 3px solid #444444;
+  border: 3px solid #1A1A1A;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -196,7 +196,7 @@
   padding-top: 30px;
   padding-bottom: 10px;
   background: rgba(250, 199, 40);
-  font-weight: 400;
+  font-weight: bolder;
   color: rgba(26, 26, 26);
   text-align: center;
   width: auto;
