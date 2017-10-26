@@ -256,9 +256,12 @@
 
 /* NEXT BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
-  background: #444444;
-  color: white;
-  border: 3px solid #444444;
+  background: none;
+  color: #E6E6E6;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: none;
   box-shadow: none;
   text-shadow: none;
   border-radius: 0px;
@@ -266,9 +269,12 @@
 
 /* DONE BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
-  background: #444444;
-  color: white;
-  border: 3px solid #444444;
+  background: none;
+  color: #333333;
+  border: 3px solid #E6E6E6;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 /* CANCEL BUTTON */
