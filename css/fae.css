@@ -296,15 +296,15 @@
   text-transform: uppercase;
 }
 
-/* CANCEL BUTTON HOVER */
+/* CANCEL BUTTON HOVER
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
   background: #E6E6E6;
   color: ##1A1A1A;
-}
+}*/
 
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
-  border: 3px solid #1A1A1A;
+  border: 3px solid #E6E6E6;
   border-radius: 0px;
   color: #1A1A1A;
   font-size: 18px;
