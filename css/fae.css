@@ -258,7 +258,7 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
   border: 3px solid #FAC728;
   border-radius: 0px;
-  color: #333333;
+  color: ##1A1A1A;
   font-size: 18px;
   font-weight: 600;
   background: #FAC728;
@@ -271,7 +271,7 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
   border: 3px solid #E6E6E6;
   border-radius: 0px;
-  color: #333333;
+  color: ##1A1A1A;
   font-size: 18px;
   font-weight: 600;
   background: none;
@@ -284,7 +284,7 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
   border: 3px solid #E6E6E6;
   border-radius: 0px;
-  color: #333333;
+  color: ##1A1A1A;
   font-size: 18px;
   font-weight: 600;
   background: none;
@@ -296,14 +296,14 @@
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
   background: #E6E6E6;
-  color: #333333;
+  color: ##1A1A1A;
 }
 
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
-  border: 3px solid #E6E6E6;
+  border: 3px solid #FAC728;
   border-radius: 0px;
-  color: #333333;
+  color: ##1A1A1A;
   font-size: 18px;
   font-weight: 600;
   background: none;
@@ -312,11 +312,11 @@
   text-transform: uppercase;
 }
 
-/* QUIZ BACK BUTTON HOVER */
+/* QUIZ BACK BUTTON HOVER
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back:hover {
   background-color: #d3d3d3;
   border-color: #d3d3d3;
-}
+}*/
 
 /* +INPUT BUTTON */
 /* QUIZ ANSWER FONT */
