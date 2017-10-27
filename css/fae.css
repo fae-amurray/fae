@@ -374,7 +374,7 @@
 
 /* EXTRA */
 .page-number {
-  opacity: 0.6;
+  color: #1A1A1A;
   font-size: 17px;
   text-transform: uppercase;
 }
