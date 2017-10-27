@@ -246,12 +246,12 @@
 }
 
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.submit-answers.btn-success {
-  border: 3px solid #d6e2da;
+  border: 3px solid #447d54;
   border-radius: 0px;
-  color: #447d54;
+  color: white;
   font-size: 18px;
   font-weight: 600;
-  background: #d6e2da;
+  background: #447d54;
   text-shadow: none;
   box-shadow: none;
   text-transform: uppercase;
@@ -259,12 +259,12 @@
 
 /* NEXT BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
-  border: 3px solid #d6e2da;
+  border: 3px solid #447d54;
   border-radius: 0px;
-  color: #447d54;
+  color: white;
   font-size: 18px;
   font-weight: 600;
-  background: #d6e2da;
+  background: #447d54;
   text-shadow: none;
   box-shadow: none;
   text-transform: uppercase;
