@@ -246,10 +246,10 @@
 }
 
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.submit-answers.btn-success {
-  border-top: 3px solid #007934;
-  border-right: 3px solid #007934;
-  border-bottom: 3px solid #003d1a;
-  border-left: 3px solid #007934;
+  border-top: 6px solid #007934;
+  border-right: 6px solid #007934;
+  border-bottom: 6px solid #003d1a;
+  border-left: 6px solid #007934;
   border-radius: 0px;
   color: white;
   font-size: 18px;
@@ -262,10 +262,10 @@
 
 /* NEXT BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
-  border-top: 3px solid #007934;
-  border-right: 3px solid #007934;
-  border-bottom: 3px solid #003d1a;
-  border-left: 3px solid #007934;
+  border-top: 6px solid #007934;
+  border-right: 6px solid #007934;
+  border-bottom: 6px solid #003d1a;
+  border-left: 6px solid #007934;
   border-radius: 0px;
   color: white;
   font-size: 18px;
