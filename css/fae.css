@@ -270,7 +270,7 @@
 
 /* DONE BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
-  border: 3px solid #231f20;
+  border: 3px solid #ebe7e8;
   border-radius: 0px;
   color: #231f20;
   font-size: 18px;
@@ -282,7 +282,7 @@
 
 /* CANCEL BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
-  border: 3px solid #231f20;
+  border: 3px solid #ebe7e8;
   border-radius: 0px;
   color: #231f20;
   font-size: 18px;
@@ -300,12 +300,12 @@
 
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
-  border: 3px solid #231f20;
+  border: 3px solid #ebe7e8;
   border-radius: 0px;
   color: #231f20;
   font-size: 18px;
   font-weight: 600;
-  background: #231f20;
+  background: #ebe7e8;
   text-shadow: none;
   box-shadow: none;
 }
