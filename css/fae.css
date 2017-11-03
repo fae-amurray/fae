@@ -259,7 +259,7 @@
 
 /* NEXT BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
-  border: 3px solid #003d1a;
+  border-bottom: 3px solid #003d1a;
   border-radius: 0px;
   color: white;
   font-size: 18px;
