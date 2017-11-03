@@ -246,14 +246,10 @@
 }
 
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.submit-answers.btn-success {
-  border-top: 6px solid #007934;
-  border-right: 6px solid #007934;
-  border-bottom: 6px solid #003d1a;
-  border-left: 6px solid #007934;
+  border: 3px solid #007934;
   border-radius: 0px;
   color: white;
-  font-size: 18px;
-  font-weight: 600;
+  font-weight: 300;
   background: #007934;
   text-shadow: none;
   box-shadow: none;
@@ -261,14 +257,10 @@
 
 /* NEXT BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
-  border-top: 6px solid #007934;
-  border-right: 6px solid #007934;
-  border-bottom: 6px solid #003d1a;
-  border-left: 6px solid #007934;
+  border: 3px solid #007934;
   border-radius: 0px;
   color: white;
-  font-size: 18px;
-  font-weight: 600;
+  font-weight: 300;
   background: #007934;
   text-shadow: none;
   box-shadow: none;
@@ -276,11 +268,10 @@
 
 /* DONE BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
-  border: 6px solid #231f20;
+  border: 3px solid #231f20;
   border-radius: 0px;
   color: #231f20;
-  font-size: 18px;
-  font-weight: 600;
+  font-weight: 300;
   background: none;
   text-shadow: none;
   box-shadow: none;
@@ -291,8 +282,7 @@
   border: 3px solid #231f20;
   border-radius: 0px;
   color: #231f20;
-  font-size: 18px;
-  font-weight: 600;
+  font-weight: 300;
   background: none;
   text-shadow: none;
   box-shadow: none;
@@ -306,14 +296,10 @@
 
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
-  border-top: 6px solid #231f20;
-  border-right: 6px solid #231f20;
-  border-bottom: 6px solid #000000;
-  border-left: 6px solid #231f20;
+  border: 3px solid #231f20;
   border-radius: 0px;
   color: #231f20;
-  font-size: 18px;
-  font-weight: 600;
+  font-weight: 300;
   background: #231f20;
   text-shadow: none;
   box-shadow: none;
