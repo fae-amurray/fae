@@ -166,7 +166,7 @@
 /* QUIZ BG COLOR AND CURVE */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
   background: rgba(255, 255, 255);
-  border: 3px solid #1A1A1A;
+  border: 3px solid #231f20;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -205,12 +205,12 @@
 
 /* TO ADJUST QUIZ ANSWER TEXT */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .label-text {
-  color: #333333;
+  color: #231f20;
 }
 
 /* QUIZ THANK YOU MESSAGE TEXT */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .thank-you {
-  color: #444444;
+  color: #231f20;
   font-family: "Roboto", "Helvetica", sans-serif;
   font-weight: 400;
   padding-left: 10px;
@@ -246,12 +246,12 @@
 }
 
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.submit-answers.btn-success {
-  border: 3px solid #231f20;
+  border-bottom: 3px solid #003d1a;
   border-radius: 0px;
   color: white;
   font-size: 18px;
   font-weight: 600;
-  background: #447d54;
+  background: #007934;
   text-shadow: none;
   box-shadow: none;
   text-transform: uppercase;
@@ -259,12 +259,12 @@
 
 /* NEXT BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
-  border: 3px solid #231f20;
+  border: 3px solid #003d1a;
   border-radius: 0px;
   color: white;
   font-size: 18px;
   font-weight: 600;
-  background: #447d54;
+  background: #007934;
   text-shadow: none;
   box-shadow: none;
   text-transform: uppercase;
