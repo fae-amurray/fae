@@ -257,7 +257,6 @@
   background: #007934;
   text-shadow: none;
   box-shadow: none;
-  text-transform: uppercase;
 }
 
 /* NEXT BUTTON */
@@ -273,12 +272,11 @@
   background: #007934;
   text-shadow: none;
   box-shadow: none;
-  text-transform: uppercase;
 }
 
 /* DONE BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
-  border: 3px solid #E6E6E6;
+  border: 6px solid #231f20;
   border-radius: 0px;
   color: #231f20;
   font-size: 18px;
@@ -286,12 +284,11 @@
   background: none;
   text-shadow: none;
   box-shadow: none;
-  text-transform: uppercase;
 }
 
 /* CANCEL BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
-  border: 3px solid #E6E6E6;
+  border: 3px solid #231f20;
   border-radius: 0px;
   color: #231f20;
   font-size: 18px;
@@ -299,7 +296,6 @@
   background: none;
   text-shadow: none;
   box-shadow: none;
-  text-transform: uppercase;
 }
 
 /* CANCEL BUTTON HOVER
@@ -310,15 +306,17 @@
 
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
-  border: 3px solid #E6E6E6;
+  border-top: 6px solid #231f20;
+  border-right: 6px solid #231f20;
+  border-bottom: 6px solid #000000;
+  border-left: 6px solid #231f20;
   border-radius: 0px;
   color: #231f20;
   font-size: 18px;
   font-weight: 600;
-  background: #E6E6E6;
+  background: #231f20;
   text-shadow: none;
   box-shadow: none;
-  text-transform: uppercase;
 }
 
 /* QUIZ BACK BUTTON HOVER
@@ -381,5 +379,4 @@
 /* EXTRA */
 .page-number {
   font-size: 17px;
-  text-transform: uppercase;
 }
