@@ -249,7 +249,6 @@
   border: 3px solid #007934;
   border-radius: 0px;
   color: white;
-  font-size: 18px;
   font-weight: 600;
   background: #007934;
   text-shadow: none;
@@ -261,7 +260,6 @@
   border: 3px solid #007934;
   border-radius: 0px;
   color: white;
-  font-size: 18px;
   font-weight: 600;
   background: #007934;
   text-shadow: none;
@@ -273,7 +271,6 @@
   border: 3px solid #ebe7e8;
   border-radius: 0px;
   color: #231f20;
-  font-size: 18px;
   font-weight: 600;
   background: none;
   text-shadow: none;
@@ -285,7 +282,6 @@
   border: 3px solid #ebe7e8;
   border-radius: 0px;
   color: #231f20;
-  font-size: 18px;
   font-weight: 600;
   background: none;
   text-shadow: none;
@@ -303,7 +299,6 @@
   border: 3px solid #ebe7e8;
   border-radius: 0px;
   color: #231f20;
-  font-size: 18px;
   font-weight: 600;
   background: #ebe7e8;
   text-shadow: none;
@@ -369,6 +364,5 @@
 
 /* EXTRA */
 .page-number {
-  font-size: 18px;
   text-transform: uppercase;
 }
