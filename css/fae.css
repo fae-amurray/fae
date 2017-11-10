@@ -273,6 +273,8 @@
   background: none;
   text-shadow: none;
   box-shadow: none;
+  padding-left: 27px;
+  padding-right: 27px;
 }
 
 /* CANCEL BUTTON */
@@ -283,6 +285,8 @@
   background: none;
   text-shadow: none;
   box-shadow: none;
+  padding-left: 27px;
+  padding-right: 27px;
 }
 
 /* CANCEL BUTTON HOVER
@@ -299,6 +303,8 @@
   background: #ebe7e8;
   text-shadow: none;
   box-shadow: none;
+  padding-left: 27px;
+  padding-right: 27px;
 }
 
 /* QUIZ BACK BUTTON HOVER
