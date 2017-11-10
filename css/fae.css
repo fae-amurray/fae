@@ -261,6 +261,8 @@
   background: #007934;
   text-shadow: none;
   box-shadow: none;
+  padding-left: 27px;
+  padding-right: 27px;
 }
 
 /* DONE BUTTON */
