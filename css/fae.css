@@ -251,8 +251,7 @@
   background: #007934;
   text-shadow: none;
   box-shadow: none;
-  padding-left: 38px;
-  padding-right: 38px;
+  padding: 19px 38px;
 }
 
 /* NEXT BUTTON */
@@ -263,8 +262,7 @@
   background: #007934;
   text-shadow: none;
   box-shadow: none;
-  padding-left: 38px;
-  padding-right: 38px;
+  padding: 19px 38px;
 }
 
 /* DONE BUTTON */
